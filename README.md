@@ -6,7 +6,7 @@ Fashion MNIST is a **drop-in replacement** for the original MNIST dataset. The s
 The goal of this project is to train a classical ML model to classify 10 differnt categories in the dataset with the highest accuracy on the test set as possible. 
 
 ## Dataset
-Fashion MNIST dataset contains 60,000 training images and 10,000 testing images of size 28x28. The target labels are 10 categories of apparel
+Fashion MNIST dataset contains 60,000 training images and 10,000 testing images of size 28x28. The target labels cinclude 10 categories of apparel:
 | Label | Description |
 |-------|-------------|
 |0| T-shirt/Top |
@@ -19,3 +19,10 @@ Fashion MNIST dataset contains 60,000 training images and 10,000 testing images 
 |7| Sneaker |
 |8| Bag |
 |9| Ankle Boot |
+
+## Outline
+1. Data Preprocessing
+2. PCA
+3. Model training and fine-tuning
+4. Pipeline
+5. Evaluation
