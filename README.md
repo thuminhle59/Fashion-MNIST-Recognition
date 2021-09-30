@@ -8,6 +8,7 @@ The goal of this project is to train a classical ML model to classify 10 differn
 ## Dataset
 Fashion MNIST dataset contains 60,000 training images and 10,000 testing images of size 28x28. The target labels are 10 categories of apparel
 | Label | Description |
+|-------|-------------|
 |0| T-shirt/Top |
 |1| Trouser |
 |2| Pullover |
